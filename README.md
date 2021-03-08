@@ -1,0 +1,2 @@
+# NextCryptoWatcher
+A simple but productive Node.JS and Java-backed project that will track price movement for Crypto and alerts when it hits the desired price point. Users will be able to register using their Email address, fill up basic preliminary questions. Register users now can add crypto that they're interested into the watchlist, create price movement-based alerts and find the right information on how and where to purchase the crypto.
